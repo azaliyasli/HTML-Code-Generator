@@ -5,8 +5,8 @@ This project saves the photos taken from the user to the MySQL database and crea
 ## Usage
 
 1. Enter your database information in the `msConnection.py` file.
-2. Add a photo by running `insert_photo.py`.
-3. Create the `output.html` file by running `generate_html.py`.
+2. Add a photo by running `savePhoto.py`.
+3. Create the `output.html` file by running `web.py`.
 
 ## Requirements
 
